@@ -1,1 +1,7 @@
-<p>Esta es la pagina de login</p>
+	<div class="container mt-5 mb-5">
+		<div class="row">
+			<div class="col-12 col-md-6">
+				Login
+			</div>
+		</div>
+	</div>

@@ -9,8 +9,8 @@
 	{
 		function index()
 		{
-			$data = ['title' => 'Bienvenido'];
-			$this->loadView('home', $data);
+			$data = ['title' => ''];
+			$this->loadView('', $data);
 		}
 
 		private function loadView($view, $data)
